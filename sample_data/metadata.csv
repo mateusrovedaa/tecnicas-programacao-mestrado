@@ -1,0 +1,5 @@
+filename,label,pig_id
+mock_001.wav,cough,1
+mock_002.wav,cough,2
+mock_003.wav,cough,3
+mock_004.wav,cough,4
